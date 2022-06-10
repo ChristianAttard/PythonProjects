@@ -9,7 +9,6 @@ operator = ""
 num2 = ""
 memStore = "Empty"
 
-
 # Define Function Listing Function
 def abilitiesList():
     print("+...Addition")
